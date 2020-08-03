@@ -1,4 +1,4 @@
-const form = document.querySelector("#infos")
+ssconst form = document.querySelector("#infos")
 const email = document.querySelector("#email")
 const emailHelp = document.querySelector("#emailHelp")
 const contraseña = document.querySelector("#contraseña")
