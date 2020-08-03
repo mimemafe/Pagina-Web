@@ -1,0 +1,69 @@
+body{
+  background-color: #99d8d0;
+}
+
+.navbar-brand{
+  font-family: 'Antic Slab', serif;
+  font-size: 30px;
+}
+
+
+h2{
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 20px;
+}
+
+p{
+  font-family: 'Red Rose', cursive;
+  font-size: 15px;
+}
+.carousel-caption{
+  color: #000000;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.text-right{
+  font-size: 10px;
+  color: #10375c;
+}
+
+
+.texto{
+  margin: 10px;
+}
+
+.btn-yo{
+  border-radius: 10px;
+  background-color: #e0dede;
+  color: #ffffdd;
+  margin: 10px;
+}
+
+.btn-yo:hover{
+  color: black;
+  background-color: #ffdecf;
+}
+
+footer {
+  color: white;
+  background-color: #363636;
+  margin: 4px;
+}
+
+footer i{
+  color: #ba7967;
+}
+
+footer a{
+  color: #c7b198;
+}
+
+footer a:hover{
+  color: #184d47;
+}
+
+footer p{
+  color: red;
+  text-align: right;
+}
